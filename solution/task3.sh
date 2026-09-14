@@ -1,0 +1,1 @@
+cat /home/ipo/mpt-regex-basics-catinhat01/data/pushkin.txt | grep -ow 'Пугачев' | wc -w
