@@ -1,1 +1,1 @@
-cat /home/ipo/mpt-regex-basics-catinhat01/data/pushkin.txt | grep -ow 'вина' | wc -w
+cat data/pushkin.txt | grep -ow 'вина' | wc -w
